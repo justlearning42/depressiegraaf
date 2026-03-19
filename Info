@@ -1,3 +1,5 @@
 Deze file dient om een beetje nuttige informatie over de data in te verzamelen.
+Als je data verzamelt zet het dan in een map alvorens te pushen en zet hier informatie over de temperaturen en het extern veld bij de data.
 
-De h=0_sweeps folder bevat simulaties op temperaturen in een logspace(-2,4,200)
+De h=0_sweeps folder bevat simulaties op temperaturen in een logspace(-2,4,200).
+De Examen_model folder bevat simulaties met h = [-5,8,0,2,2,0,3,6,0] en temperaturen in linspace(5,400, 200)
